@@ -1,0 +1,4 @@
+/env
+/grouplens-dataset
+neo4j-rec-sys-rough.ipynb
+*.pyc
